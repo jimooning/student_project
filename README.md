@@ -12,3 +12,4 @@
 -반복문,switch case문 이용하여 메뉴 선택   
 -총 학생수(max)는 100명으로 정의   
 -각 메뉴에 적합한 함수선언 및 정의   
+![image](https://user-images.githubusercontent.com/100817610/159625510-b6700ae0-07f0-4dc0-815c-dcd4ca565282.png)
